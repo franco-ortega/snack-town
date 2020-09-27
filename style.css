@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    background-color: lightgrey;
+    width: 200px;
+}
