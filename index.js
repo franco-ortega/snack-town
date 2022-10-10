@@ -1,5 +1,5 @@
 const button = document.querySelector('button');
 
 button.addEventListener('click', () => {
-  location.href = '/';
+  location.href = './snack-town/';
 });
