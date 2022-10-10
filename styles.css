@@ -12,9 +12,10 @@ header {
 button {
   background-color: lightgreen;
   border-radius: 0.5rem;
-  color: black;
   margin: 1rem;
   padding: 0.25rem 0.5rem;
+  color: black;
+  font-size: 1.1rem;
 
   transition: all 500ms ease;
 }
