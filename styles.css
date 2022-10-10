@@ -1,0 +1,47 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+header {
+  background-color: lightgrey;
+  width: 200px;
+}
+
+.head-shot {
+  height: 300px;
+  width: auto;
+}
+
+.katie {
+  height: 200px;
+  width: auto;
+}
+
+.liana {
+  height: 200px;
+  width: auto;
+}
+.dan {
+  height: 200px;
+  width: auto;
+}
+
+.winston {
+  height: 200px;
+  width: auto;
+}
+
+.franco {
+  height: 200px;
+  width: auto;
+}
+
+.ness {
+  height: 200px;
+  width: auto;
+}
+
+#people-page {
+  width: 90%;
+}
